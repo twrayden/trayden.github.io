@@ -1,0 +1,10 @@
+{
+  "name": "trayden.github.io",
+  "private": true,
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "devDependencies": {
+    "gh-pages": "4.0.0"
+  }
+}
